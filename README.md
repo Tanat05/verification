@@ -1,6 +1,28 @@
-모든 비속어/욕설 판별기의 대한 성능 검증을 진행하는 것이 목표입니다.
+모든 비속어/욕설 판별기의 대한 성능을 비교합니다.
+# 데이터
+- [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset): 한국어 악성댓글 데이터셋 (10,000문장)
+- [Curse-detection-data](https://github.com/2runo/Curse-detection-data): 각종 커뮤니티 사이트의 댓글의 욕설 여부를 분류한 한글 데이터셋 (5,825문장)
+- [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech): 온라인 뉴스의 댓글를 8가지로 세분화하여 분류한 데이터셋 (78,978문장)
+- [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data): 한국 극단주의 웹사이트의 데이터를 분류한 데이터셋 (2,081문장)
+- [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean): 네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋 (8,837문장)
+
+# 모델
+> PYHTON
+- [korcen](https://github.com/KR-korcen/korcen): 키워드 기반 비속어 판단 모듈
+- [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
+- [badword_check](https://github.com/Nam-SW/badword_check): 입력한 글(한글)이 욕설인지 아닌지를 딥러닝을 통해 판별하는 모델
+- [CurseDetector](https://github.com/mangto/CurseDetector): 한글 유사도와 한글 발음 유사도를 이용한 욕설/비속어/금지어 필터링
+> C
+
+> JAVA
+
+> JAVASCRIPT
+
+> etc....
+
 
 # 성능 검증
+> 데이터와 결과가 일치한 개수 / 전체 데이터 개수
 
 |  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) |
 |------|------|------|------|------|------|
