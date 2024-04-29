@@ -24,7 +24,7 @@
 # 성능 검증
 > 데이터와 결과가 일치한 개수 / 전체 데이터 개수
 
-|  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) | 문장당 평균 처리 속도 |
+|  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) | 평균 처리 속도 |
 |------|------|------|------|------|------|------|
 | [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 | 0.6305 | 0.4479 | **11ms** |
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(free)(23.5.28) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 | 45ms |
