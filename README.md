@@ -15,6 +15,7 @@
 > C
 
 > JAVA
+- [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
 
 > JAVASCRIPT
 
