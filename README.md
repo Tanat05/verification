@@ -29,7 +29,7 @@
 |------|------|------|------|------|------|------|
 | [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 | 0.6305 | 0.4479 | **11ms** |
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(free)(23.5.28) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 | 45ms |
-| [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(paid)(24.1.29) | **0.8322** | 0.8410 | **0.7837** | **0.7120** | **0.7477** | 38ms |
+| [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(paid)(24.1.29) | **0.8322** | 0.8420 | **0.7837** | **0.7120** | **0.7477** | 38ms |
 | [badword_check](https://github.com/Nam-SW/badword_check)(23.10.1) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 | 43ms |
 | [CurseDetector](https://github.com/mangto/CurseDetector)(24.1.10) | 0.5679 |  |  | 0.5785 |  | 267ms |
 
