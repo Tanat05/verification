@@ -32,7 +32,7 @@
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(paid) | **0.8322** | **0.8420** | **0.7837** | **0.7120** | **0.7477** | 38ms |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 | 43ms |
 | [CurseDetector](https://github.com/mangto/CurseDetector) | 0.5679 |  |  | 0.5785 |  | 267ms |
-| [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 | 0.6275 |  |  | **0.19**ms |
+| [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 |  | 0.6275 |  | **0.19**ms |
 
 # 테스트 환경
 > i7-11800H @ 2.30GHz
