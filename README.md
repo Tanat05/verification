@@ -18,6 +18,7 @@
 - [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
 
 > JAVASCRIPT
+- [Cenkor](https://github.com/sh9351/cenkor): 손쉬운 비속어 검열(korcen 데이터셋 이용)
 
 > etc....
 
