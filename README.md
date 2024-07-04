@@ -1,4 +1,5 @@
 모든 비속어/욕설 판별기의 대한 성능을 비교합니다.
+Compare the performance of all profanity/cursive discriminator.
 # 데이터
 - [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset): 한국어 악성댓글 데이터셋 (10,000문장)
 - [Curse-detection-data](https://github.com/2runo/Curse-detection-data): 각종 커뮤니티 사이트의 댓글의 욕설 여부를 분류한 한글 데이터셋 (5,825문장)
