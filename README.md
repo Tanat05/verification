@@ -33,6 +33,7 @@ Compare the performance of all profanity/cursive discriminator.
 | [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | 0.8415 | 0.6800 | 0.6305 | 0.4479 |  | 9ms |
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(kogpt2) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |  | 45ms |
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(llama2) | **0.8322** | **0.8420** | **0.7837** | **0.7120** | **0.7477** |  | 38ms |
+| [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md)(EXAONE 3.0) |  |  |  |  |  |  |  |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 |  | 43ms |
 | [CurseDetector](https://github.com/mangto/CurseDetector) | 0.5679 |  |  | 0.5785 |  |  | 267ms |
 | [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 |  | 0.6275 |  |  | **0.2**ms |
