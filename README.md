@@ -6,7 +6,7 @@ Compare the performance of all profanity/cursive discriminator.
 - [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech): 온라인 뉴스의 댓글를 8가지로 세분화하여 분류한 데이터셋 (78,978문장)
 - [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data): 한국 극단주의 웹사이트의 데이터를 분류한 데이터셋 (2,081문장)
 - [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean): 네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋 (8,837문장)
-- [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data): korcen으로 분류한 korcen-ml의 학습 파일 중 일부(3,000,000문장)(랜덤 10,000문장만 사용)
+- [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data): korcen으로 분류한 korcen-ml의 학습 파일 중 일부(3,000,000문장)
 - [korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 한국 연예 뉴스 수집 플랫폼의 댓글(9,381문장)
 - [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file): Smilegate AI에서 공개하는 한국어 혐오표현 "☹️ UnSmile" 데이터셋입니다. (18,742문장)
 
