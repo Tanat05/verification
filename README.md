@@ -11,7 +11,6 @@ Compare the performance of all profanity/cursive discriminator.
 # 모델
 > PYHTON
 - [korcen](https://github.com/Tanat05/korcen): 키워드 기반 비속어 판단 모듈
-- [korcen.ts](https://github.com/Tanat05/korcen.ts): 기존 korcen을 typescript로 작성한 NPM모듈
 - [korcen-ml](https://github.com/Tanat05/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
 - [badword_check](https://github.com/Nam-SW/badword_check): 입력한 글(한글)이 욕설인지 아닌지를 딥러닝을 통해 판별하는 모델
 - [CurseDetector](https://github.com/mangto/CurseDetector): 한글 유사도와 한글 발음 유사도를 이용한 욕설/비속어/금지어 필터링
@@ -20,8 +19,9 @@ Compare the performance of all profanity/cursive discriminator.
 > JAVA
 - [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
 
-> JAVASCRIPT
+> JAVASCRIPT etc
 - [Cenkor](https://github.com/sh9351/cenkor): 손쉬운 비속어 검열(korcen 데이터셋 이용)
+- [korcen.ts](https://github.com/Tanat05/korcen.ts): 기존 korcen을 typescript로 작성한 NPM모듈
 
 > etc....
 
@@ -36,6 +36,7 @@ Compare the performance of all profanity/cursive discriminator.
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md) | **0.8395** | **0.8432** | **0.8851** | **0.7130** | 0.6919 | **0.9941** | 40ms |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 | 0.7980 | 43ms |
 | [CurseDetector](https://github.com/mangto/CurseDetector) |  | 0.5679 |  | 0.5785 |  | 0.6657 | 267ms |
+| [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering) |  |  |  |  |  |  |  |
 | [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 |  | 0.6275 |  |  | **0.2**ms |
 
 # 테스트 환경
