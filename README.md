@@ -20,10 +20,15 @@ Compare the performance of all profanity/cursive discriminator.
 > JAVA
 - [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
 
-> JAVASCRIPT etc
+> JAVASCRIPT
 - [Cenkor](https://github.com/sh9351/cenkor): 손쉬운 비속어 검열(korcen 데이터셋 이용)
+
+> TYPESCRIPT
 - [korcen.ts](https://github.com/Tanat05/korcen.ts): 기존 korcen을 typescript로 작성한 NPM모듈
 
+> DART
+- [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter): 정규식을 기반
+- 
 > etc....
 
 
@@ -39,6 +44,7 @@ Compare the performance of all profanity/cursive discriminator.
 | [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering) |  |  |  |  |  |  |  |  |
 | [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 |  | 0.6275 |  |  |  | **0.2**ms |
 | [korcen.ts](https://github.com/Tanat05/korcen.ts) |  |  |  |  |  |  |  |  |
+| [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter) |  |  |  |  |  |  |  |  |
 
 # 테스트 환경
 > i7-11800H @ 2.30GHz
