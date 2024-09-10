@@ -10,8 +10,9 @@ Compare the performance of all profanity/cursive discriminator.
 
 # 모델
 > PYHTON
-- [korcen](https://github.com/KR-korcen/korcen): 키워드 기반 비속어 판단 모듈
-- [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
+- [korcen](https://github.com/Tanat05/korcen): 키워드 기반 비속어 판단 모듈
+- [korcen.ts](https://github.com/Tanat05/korcen.ts): 기존 korcen을 typescript로 작성한 NPM모듈
+- [korcen-ml](https://github.com/Tanat05/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
 - [badword_check](https://github.com/Nam-SW/badword_check): 입력한 글(한글)이 욕설인지 아닌지를 딥러닝을 통해 판별하는 모델
 - [CurseDetector](https://github.com/mangto/CurseDetector): 한글 유사도와 한글 발음 유사도를 이용한 욕설/비속어/금지어 필터링
 > C
@@ -31,6 +32,7 @@ Compare the performance of all profanity/cursive discriminator.
 |  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) | [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data) | 평균 처리 속도 |
 |------|------|------|------|------|------|------|------|
 | [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | 0.8415 | 0.6773 | 0.6305 | 0.4479 | 0.9857 | 9ms |
+| [korcen.ts](https://github.com/Tanat05/korcen.ts) |  |  |  |  |  |  |  |
 | [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md) | **0.8395** | **0.8432** | **0.8851** | **0.7130** | 0.6919 | **0.9941** | 40ms |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 | 0.7980 | 43ms |
 | [CurseDetector](https://github.com/mangto/CurseDetector) |  | 0.5679 |  | 0.5785 |  | 0.6657 | 267ms |
