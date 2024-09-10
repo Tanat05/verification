@@ -16,20 +16,26 @@ Compare the performance of all profanity/cursive discriminator.
 - [korcen-ml](https://github.com/Tanat05/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
 - [badword_check](https://github.com/Nam-SW/badword_check): 입력한 글(한글)이 욕설인지 아닌지를 딥러닝을 통해 판별하는 모델
 - [CurseDetector](https://github.com/mangto/CurseDetector): 한글 유사도와 한글 발음 유사도를 이용한 욕설/비속어/금지어 필터링
+
+  
 > C
 
 > JAVA
 - [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
 
+
 > JAVASCRIPT
 - [Cenkor](https://github.com/sh9351/cenkor): 손쉬운 비속어 검열(korcen 데이터셋 이용)
+
 
 > TYPESCRIPT
 - [korcen.ts](https://github.com/Tanat05/korcen.ts): 기존 korcen을 typescript로 작성한 NPM모듈
 
+
 > DART
 - [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter): 정규식을 기반
-- 
+
+  
 > etc....
 
 
