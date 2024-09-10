@@ -53,6 +53,20 @@ Compare the performance of all profanity/cursive discriminator.
 | [korcen.ts](https://github.com/Tanat05/korcen.ts) |  |  |  |  |  |  |  |  |  |
 | [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter) |  |  |  |  |  |  |  |  |  |
 
+#평가
+> 개인적인 생각으로 작성한 평가입니다.
+
+| 모델 | 평가|
+|------|------|
+| [korcen](https://github.com/KR-korcen/korcen) | 작성예정 |
+| [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md) | 성능 검증에선 높은 점수를 받았지만 실사용에서는 korcen보다 많은 오검열이 발생함 |
+| [badword_check](https://github.com/Nam-SW/badword_check) | 작성예정 |
+| [CurseDetector](https://github.com/mangto/CurseDetector) | 처리 속도가 매우 느려 테스트 진행 불가능 또한 가장 낮은 성능으로 활용도가 낮음|
+| [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering) | 작성예정 |
+| [Cenkor](https://github.com/sh9351/cenkor) | korcen의 욕설을 기반으로 해 korcen과 비슷한 성능이지만 처리 속도가 압도적임 |
+| [korcen.ts](https://github.com/Tanat05/korcen.ts) | 작성예정 |
+| [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter) | 작성예정 | 
+
 # 테스트 환경
 > i7-11800H @ 2.30GHz
 > 32GB 3200MHZ
