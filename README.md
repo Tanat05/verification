@@ -53,7 +53,7 @@ Compare the performance of all profanity/cursive discriminator.
 | [korcen.ts](https://github.com/Tanat05/korcen.ts) |  |  |  |  |  |  |  |  |  |
 | [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter) |  |  |  |  |  |  |  |  |  |
 
-#평가
+# 평가
 > 개인적인 생각으로 작성한 평가입니다.
 
 | 모델 | 평가|
